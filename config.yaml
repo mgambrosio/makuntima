@@ -1,6 +1,6 @@
-baseURL: http://example.org/
+baseURL: https://bmakuntima.netlify.app
 languageCode: en-us
-title: Roxo | Creative Design Agency
+title: Makuntima | Bazar Beneficente 
 theme: roxo-hugo
 summarylength: 25
 menu:
@@ -25,12 +25,12 @@ params:
   banner:
     background_image: images/backgrounds/hero-background.jpg
     enable: yes
-    heading: We’re a Design Studio That Belies In the Great Ideas
-    primary_button: See Our Works
+    heading: Bazar Beneficente Makuntima
+    primary_button: O nosso trabalho
     primary_button_url: portfolio
-    secondary_button: Connect with Us
+    secondary_button: Conecte-se conosco
     secondary_button_url: contact
-    tagline: WE WORK HARD, WE PLAY HARD
+    tagline: Do nosso coração para o das comunidades
   call_to_action:
     background_image: images/backgrounds/cta-background.jpg
     enable: yes
