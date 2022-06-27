@@ -1,21 +1,20 @@
 ---
 date: "2018-07-12T18:19:33+06:00"
-description: We are specialized in developing forward-thinking brand identities, websites,
-  illustration and animation for all types of customers. And we do this by bringing
-  our customers through each phase of the design process with us.
+description: O Bazar beneficente Makuntima (palavra original do Kissorongo que significa “o que esta no meu coração”) é um evento criado para angariação de fundos para apoiar no pagamento de propinas escolares de crianças desfavorecidas residentes no município do Soyo. O evento engloba a venda de roupas, sapatos e artigos pessoais (bolsas, carteiras, acessórios como brincos e colares).
+
 expertise_sectors:
-- Customer Experience Design
-- Digital Products
-- Development
-- Campaign & Content
-- Employer Branding
-- Animation & Motion Graphics
-- Packaging & Product Design
-- Retail & Spacial
-- Print & Editorial Design
-- Concept/Text
-- Information Design
-expertise_title: Expertise
-heading: WE ARE ROXO DESIGN. AN AWARD-WINNING CREATIVE STUDIO IN FLORIDA.
-title: About Us
+- Custeamento de propinas escolares
+- Material Escolar
+- Treinamento profissional
+- Vestuário
+- Alimentação
+- Saúde
+- Desporto
+- Dança
+- Pintura
+- Evangelização
+
+expertise_title: Áreas de atuação
+heading: Bazar Beneficente Makuntima
+title: Sobre Nós
 ---
