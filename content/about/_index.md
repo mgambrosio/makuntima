@@ -15,6 +15,6 @@ expertise_sectors:
 - Evangelização
 
 expertise_title: Áreas de atuação
-heading: Bazar Beneficente Makuntima
+heading: Sobre Nós
 title: Sobre Nós
 ---
