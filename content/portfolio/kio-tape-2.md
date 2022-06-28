@@ -2,10 +2,10 @@
 category:
 - PRODUCT LABEL
 date: "2019-12-23T20:56:42+06:00"
-image: images/projects/project-thumb-four.jpg
+image: images/projects/Peça-6.jpg
 project_images:
-- images/projects/project-details-image-one.jpg
-- images/projects/project-details-image-two.jpg
+- images/projects/Peça-10.jpg
+- images/projects/Peça-2.jpg
 title: KIO-TAPE BRAND
 type: portfolio
 ---
