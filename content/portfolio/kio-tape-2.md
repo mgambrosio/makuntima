@@ -1,8 +1,8 @@
 ---
 category:
-- Vestido comprido rosa tamanho M
+- Jeans Mom Levi's tamanho L
 date: "2019-12-23T20:56:42+06:00"
-image: images/projects/Peça-6.jpg
+image: images/projects/Peça-4.jpg
 project_images:
 - images/projects/Peça-10.jpg
 - images/projects/Peça-2.jpg

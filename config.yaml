@@ -23,7 +23,7 @@ menu:
 params:
   author: StaticMania
   banner:
-    background_image: images/backgrounds/hero-background.jpg
+    background_image: images/backgrounds/colors-background.jpg
     enable: yes
     heading: Bazar Beneficente Makuntima
     primary_button: O nosso trabalho
@@ -87,7 +87,7 @@ params:
       title: Social Media
   formspreeFormUrl: https://formspree.io/myykjpje
   googleAnalitycsID: Your ID
-  logo: images/logo.png
+  logo: images/logo-Maktima.png
   navAction:
     name: Get in touch
     status: yes
