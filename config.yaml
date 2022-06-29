@@ -62,7 +62,7 @@ params:
     service:
       description: develop design solutions<br>produce valuable cultural content<br>create
         fresh brand experience
-      title: 'We help brands:'
+      title: 'Apoiamos crianças em comunidades carentes:'
     sitemap:
       link:
         - name: About Company
@@ -94,5 +94,5 @@ params:
     url: contact
   portfolio:
     enable: yes
-    subtitle: Crafting experiences and seeking to make the complex clear & beautiful.
-    title: OUR RECENT WORKS
+    subtitle: Sonhamos em levar o Bazar Makuntima para as 18 províncias de Angola.
+    title: Nosso trabalho mais recente
