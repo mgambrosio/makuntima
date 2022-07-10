@@ -4,8 +4,8 @@ category:
 date: "2019-12-23T15:58:10+06:00"
 image: images/projects/Peça-10.jpg
 project_images:
-- images/projects/project-details-image-one.jpg
-- images/projects/project-details-image-two.jpg
+- images/projects/Peça-10.jpg
+- images/projects/Peça-8.jpg
 title: Peças a venda
 type: portfolio
 ---
