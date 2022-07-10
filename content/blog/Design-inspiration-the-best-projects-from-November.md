@@ -1,6 +1,6 @@
 ---
 author: Projecto Makuntima
-date: "09/2019"
+date: "2022-07-10T13:32:54+06:00"
 feature_image: images/blog/blog-9.jpg
 image: images/blog/blog-9.jpg
 title: 'Material Escolar'

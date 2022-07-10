@@ -1,8 +1,8 @@
 ---
 author: Projecto Makuntima
-date: "2019-03-24T13:32:54+06:00"
-feature_image: images/blog/blog-4.jpg
-image: images/blog/blog-4.jpg
+date: "2022-07-10T13:32:54+06:00"
+feature_image: images/blog/blog-11.jpg
+image: images/blog/blog-11.jpg
 title: Classe de boas novas
 ---
 ### Implementado
