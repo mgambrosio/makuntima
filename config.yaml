@@ -5,19 +5,19 @@ theme: roxo-hugo
 summarylength: 25
 menu:
   nav:
-    - name: Home
+    - name: Visão Geral
       url: ''
       weight: 1
-    - name: About
+    - name: Sobre Nós
       url: about
       weight: 2
-    - name: Portfolio
+    - name: Peças á Venda
       url: portfolio
       weight: 3
-    - name: Blog
+    - name: Projectos
       url: blog
       weight: 4
-    - name: Get in touch
+    - name: Conecte-se Conosco
       url: contact
       weight: 5
 params:
@@ -27,18 +27,18 @@ params:
     enable: yes
     heading: Bazar Beneficente Makuntima
     primary_button: O nosso trabalho
-    primary_button_url: portfolio
+    primary_button_url: Projectos
     secondary_button: Conecte-se conosco
     secondary_button_url: contact
     tagline: Do nosso coração para o das comunidades
   call_to_action:
     background_image: images/backgrounds/cta-background.jpg
     enable: yes
-    primary_button: Submit Query
+    primary_button: Conecte-se conosco
     primary_button_url: contact
-    secondary_button: Not Convinced
+    secondary_button: Peças á venda
     secondary_button_url: portfolio
-    title: LET’S WORK TOGETHER
+    title: Seja um Parceiro
   contactForm:
     placeholder_about_the_project: About the Project
     placeholder_email: Email
@@ -55,34 +55,33 @@ params:
   description: Roxo Hugo themes | Design Agency Template by StaticMania
   footer:
     contactInfo:
-      address: 713 Elmwood St.<br>Prior Lake, MN 55372
-      email: info@roxo.co
-      phone: 409-896-1444
-      title: Contact Info
+      address: Kukala-Kyaku, Soyo, Zaire, Angola
+      email: 
+      phone: 
+      title: Contactos
     service:
-      description: develop design solutions<br>produce valuable cultural content<br>create
-        fresh brand experience
+      description: Projectos virados ao apoio da criança Angolana<br>Trabalhamos com as comunidades<br>Vencemos cada desafio com fé, foco e determinação
       title: 'Apoiamos crianças em comunidades carentes:'
     sitemap:
       link:
-        - name: About Company
+        - name: Visão Geral
           url: about
-        - name: Projects
+        - name: Peças a Venda
           url: portfolio
-        - name: Blog
+        - name: Projectos
           url: blog
-        - name: Contact
+        - name: Conecte-se conosco
           url: contact
-      title: Sitemap
+      title: Mapa do Website
     social:
       link:
-        - name: Medium
-          url: '#'
-        - name: Behance
-          url: '#'
-        - name: Dribbble
+        - name: Facebook
           url: '#'
         - name: Instagram
+          url: '#'
+        - name: 
+          url: '#'
+        - name: 
           url: '#'
       title: Social Media
   formspreeFormUrl: https://formspree.io/myykjpje
