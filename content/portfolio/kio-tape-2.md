@@ -10,8 +10,5 @@ title: Peças a venda
 type: portfolio
 ---
 
-The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
-
-
-The watch has the following features:
+O Bazar Makuntima será realizado no município do Soyo/ Bairro Kukala-Kiaku, província do Zaire em data a anunciar.
 

@@ -10,3 +10,4 @@ title: Disponível
 type: portfolio
 ---
 
+O Bazar Makuntima será realizado no município do Soyo/ Bairro Kukala-Kiaku, província do Zaire em data a anunciar.

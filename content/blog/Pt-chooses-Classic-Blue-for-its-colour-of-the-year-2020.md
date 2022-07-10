@@ -1,36 +1,15 @@
 ---
-author: Alexender Schoitiz
-date: "2019-12-24T13:32:54+06:00"
-feature_image: images/blog/blog-details-image.jpg
-image: images/blog/blog-post-03.jpg
-title: Pt Chooses Classic Blue for Its Colour of the Year 2020
+author: Projecto Makuntima
+date: "2019-03-24T13:32:54+06:00"
+feature_image: images/blog/blog-4.jpg
+image: images/blog/blog-4.jpg
+title: Classe de boas novas
 ---
-### Black Lines brand identity, by & Smith
+### Implementado
 
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+A classe de boas novas do Kukala-kyaku foi o primeiro projecto  implementado. As classe tem aproximadamente 70 crianças. Todos os sabados de manhã as crianças têm a escola biblica aonde aprendem histórias bíblicas, canções e outras atividades com foco no ensino cristão. Está em construção um pequeno galpão que servirá para albergar as crianças com mais dignidade e conforto. A maior necessidade da classe é o comprometimento de um/a professor/a de escola biblica. Necessitam-se também de cadeiras e material para o ensino como livros cristãos para professores, crianças e adolescentes.
 
-1. ROFL means Rolling on floor laughing.
-2. STFU means Shut the *freak* up.
-3. LMK means Let me know.
-4. ILY means I love you.
-5. YOLO means You only live once.
-6. SMH means Shaking my head.
-
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
-
-1. ROFL means Rolling on floor laughing.
-2. STFU means Shut the *freak* up.
-3. LMK means Let me know.
-4. ILY means I love you.
-5. YOLO means You only live once.
-6. SMH means Shaking my head.
-
-![blog-details-image-02](https://user-images.githubusercontent.com/16266381/71399826-2009b380-264f-11ea-9bc3-59d7fa9a9994.jpg)
-
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
-
-> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
+> "Para ter mais informações sobre como apoiar as crianças do Soyo deixa-nos uma mensagem."
 
 
-> Paul Rand, graphic designer
 
