@@ -1,14 +1,14 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "Aonde Estamos"
 counter_item: 
-  - title: "Happy Clients"
-    number: "250"
+  - title: "Crianças dentro do ensino escolar"
+    number: "10"
 
-  - title: "Projects Completed"
-    number: "100"
+  - title: "Projectos Implementados"
+    number: "2"
 
-  - title: "Cups of coffee"
-    number: "350"
+  - title: "Projectos em Desenvolvimento"
+    number: "2"
 
-  - title: "Telephone Talks"
-    number: "775"
+  - title: "Crianças evangelizadas"
+    number: "80"
