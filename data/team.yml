@@ -1,44 +1,44 @@
 enable  : true
-title   : Team that makes the difference.
+title   : Voçê pode dar o seu apoio nas seguinte areas
 members  :
-  - image       : images/team/team-member-one.jpg
-    name        : PABLO ESCOBAR
-    designation : Creative Director
+  - image       : images/team/team-1.jpg
+    name        : Propina Escolar
+    designation : Faça uma doação ou se torne num padrinho
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-two.jpg
-    name        : MONTINO RIAU
-    designation : Product Manager
+  - image       : images/team/team-2.jpg
+    name        : Material Escolar
+    designation : Aceitamos desde cadernos, livros e outros materiais 
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/team-member-three.jpg
-    name        : ALEX NAASRI
-    designation : Chief Design Officer
+    name        : Doe para o bazar
+    designation : Aceitamos roupas, artigos novos e usados em usados em bom estado de conservação
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/team-member-four.jpg
-    name        : HONGMAN CHIOA
-    designation : UX Researcher
+    name        : Compre no bazar
+    designation : Entre em contacto para saber as peças que temos a venda
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/team-member-five.jpg
-    name        : SANTIO ANDRESS
-    designation : Content Researcher
+    name        : Doe Alimentos 
+    designation : Aceitamos somente alimentos não pereíveis
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/team-member-six.jpg
-    name        : RAMESH PAUL
-    designation : Creative Designer
+    name        : Doe material evangelístico
+    designation : Aceitamos revistas, bíblias cristãs e outros materias voltados a envangelização de crianças e adolescentes
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
