@@ -2,32 +2,32 @@ enable  : true
 title   : "OPINIÕES DE PESSOAS REAIS"
 subtitle: "O que as comunidades falam do nosso trabalho"
 testimonial_item :
-  - thumb : "images/testimonial/user-thumb-one.jpg"
+  - thumb : "images/team/team-s-5.jpg"
     name  : "Parceiros Locais"
     company_position: "Enfermeira"
     quote : > 
             "Quando fazes este trabalho tens muita força e alegria. A força e entrega nem se compara ao lugar aonde te pagam salário." 
 
-  - thumb : "images/testimonial/user-thumb-two.jpg"
+  - thumb : "images/team/team-s-2.jpg"
     name  : "Pais"
     company_position: "uma mãe"
     quote : > 
             "Vocês estão a fazer um bom trabalho. As nossas crianças agora oram antes de comer e antes de dormir. Elas adiantam o trabalho de casa sexta a noite porque sabem que sábado de manhã tem o culto." 
 
-  - thumb : "images/testimonial/user-thumb-three.jpg"
+  - thumb : "images/team/team-s-3.jpg"
     name  : "Membros da comunidade"
     company_position: "Jovem residente"
     quote : > 
             "Eu estou a gostar do trabalho que estão a fazer. Não parem." 
 
-  - thumb : "images/testimonial/user-thumb-four.jpg"
+  - thumb : "images/team/team-s-4.jpg"
     name  : "Membros da comunidade"
     company_position: "Idosa residente"
     quote : > 
             "Eu não sabia que vocês estão a fazer este trabalho. Eu também vou trazer aqui os meus netos." 
 
-  - thumb : "images/testimonial/user-thumb-three.jpg"
+  - thumb : "images/team/team-s-7.jpg"
     name  : "Crianças"
     company_position: "Participante da classe de boas novas"
     quote : > 
-            "Frase dita após o confinamento da COVID-19: Estamos felizes por voltarmos com a classe." 
+            Frase dita após o confinamento da COVID-19: "Estamos felizes por voltarmos com a classe." 

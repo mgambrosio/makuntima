@@ -1,6 +1,6 @@
 enable  : true
 galleryImages :
-  - image : images/portfolio/blog-1.jpg
+  - image : images/portfolio/item-1.jpg
   - image : images/portfolio/item-2.jpg
   - image : images/portfolio/item-3.jpg
   - image : images/portfolio/item-4.jpg
