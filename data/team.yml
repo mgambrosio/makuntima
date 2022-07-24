@@ -15,14 +15,14 @@ members  :
     linkedIn    : 
     instagram   : 
 
-  - image       : images/team/team-logo.jpg
+  - image       : images/team/team-maktima.jpg
     name        : Doe para o bazar
     designation : Aceitamos roupas, artigos novos e usados em bom estado de conservação
     medium      : 
     linkedIn    : 
     instagram   : 
 
-  - image       : images/team/team-logo.jpg
+  - image       : images/team/team-maktima.jpg
     name        : Compre no bazar
     designation : Entre em contacto para saber as peças que temos a venda
     medium      : 
@@ -39,6 +39,6 @@ members  :
   - image       : images/team/team-s-religion.jpg
     name        : Doe material evangelístico
     designation : Aceitamos revistas, bíblias cristãs e outros materias voltados a envangelização de crianças e adolescentes
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
+    medium      : 
+    linkedIn    : 
     instagram   : https://www.instagram.com/
