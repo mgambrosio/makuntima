@@ -46,9 +46,9 @@ params:
     placeholder_last_name: Last Name
     placeholder_project_type: Project Type
     projectType:
-      - title: Graphics Design
+      - title: Bazar
         value: gd
-      - title: Web Design
+      - title: Propina escolar
         value: wd
     send_message: Send Message
   dateFormat: 26 FEB 1994
