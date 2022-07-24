@@ -10,5 +10,5 @@ title: Disponível
 type: portfolio
 ---
 
-The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features. Se estiver interessado em comprar uma destas peças entre em contacto conosco.
+The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features. Se estiver interessado em comprar entre em contacto conosco para ver as outras peças que temos disponíveis.
 
