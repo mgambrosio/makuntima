@@ -1,42 +1,42 @@
 enable  : true
 title   : Voçê pode dar o seu apoio nas seguinte areas
 members  :
-  - image       : images/team/team-1.jpg
+  - image       : images/team/team-member-s-seven.jpg
     name        : Propina Escolar
     designation : Faça uma doação ou se torne num padrinho
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-2.jpg
+  - image       : images/team/team-s-9.jpg
     name        : Material Escolar
     designation : Aceitamos desde cadernos, livros e outros materiais 
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-three.jpg
+  - image       : images/team/team-logo.jpg
     name        : Doe para o bazar
-    designation : Aceitamos roupas, artigos novos e usados em usados em bom estado de conservação
+    designation : Aceitamos roupas, artigos novos e usados em bom estado de conservação
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-four.jpg
+  - image       : images/team/team-logo.jpg
     name        : Compre no bazar
     designation : Entre em contacto para saber as peças que temos a venda
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-five.jpg
-    name        : Doe Alimentos 
-    designation : Aceitamos somente alimentos não pereíveis
+  - image       : images/team/team-s-volunteer.jpg
+    name        : Doe o seu tempo 
+    designation : Buscamos por voluntarios dispostos a atuar na área do ensino académico e cristão
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-six.jpg
+  - image       : images/team/team-s-religion.jpg
     name        : Doe material evangelístico
     designation : Aceitamos revistas, bíblias cristãs e outros materias voltados a envangelização de crianças e adolescentes
     medium      : https://www.medium.com/
