@@ -10,5 +10,5 @@ title: Peças a venda
 type: portfolio
 ---
 
-O Bazar Makuntima será realizado no município do Soyo/ Bairro Kukala-Kiaku, província do Zaire em data a anunciar.
+O Bazar Makuntima será realizado no município do Soyo/ Bairro Kukala-Kiaku, província do Zaire em data a anunciar.Se estiver interessado em comprar uma destas peças entre em contacto conosco.
 

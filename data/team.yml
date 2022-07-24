@@ -4,37 +4,37 @@ members  :
   - image       : images/team/team-member-s-seven.jpg
     name        : Propina Escolar
     designation : Faça uma doação ou se torne num padrinho
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    medium      : 
+    linkedIn    : 
+    instagram   : 
 
   - image       : images/team/team-s-9.jpg
     name        : Material Escolar
     designation : Aceitamos desde cadernos, livros e outros materiais 
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    medium      : 
+    linkedIn    : 
+    instagram   : 
 
   - image       : images/team/team-logo.jpg
     name        : Doe para o bazar
     designation : Aceitamos roupas, artigos novos e usados em bom estado de conservação
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    medium      : 
+    linkedIn    : 
+    instagram   : 
 
   - image       : images/team/team-logo.jpg
     name        : Compre no bazar
     designation : Entre em contacto para saber as peças que temos a venda
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    medium      : 
+    linkedIn    : 
+    instagram   : 
 
   - image       : images/team/team-s-volunteer.jpg
     name        : Doe o seu tempo 
     designation : Buscamos por voluntarios dispostos a atuar na área do ensino académico e cristão
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    medium      : 
+    linkedIn    : 
+    instagram   : 
 
   - image       : images/team/team-s-religion.jpg
     name        : Doe material evangelístico
