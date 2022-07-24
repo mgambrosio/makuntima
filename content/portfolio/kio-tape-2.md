@@ -6,7 +6,7 @@ image: images/projects/Peça-4.jpg
 project_images:
 - images/projects/Peça-4.jpg
 - images/projects/Peça-1.jpg
-title: Peças a venda
+title: Disponível
 type: portfolio
 ---
 
