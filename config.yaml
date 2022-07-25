@@ -56,7 +56,7 @@ params:
   footer:
     contactInfo:
       address: Kukala-Kyaku, Soyo, Zaire, Angola
-      email: magracesmile@gmail.com
+      email: 'magracesmile@gmail.com'
       title: Contactos
     service:
       description: Projectos virados ao apoio da criança Angolana<br>Trabalhamos com as comunidades<br>Vencemos cada desafio com fé, foco e determinação
@@ -89,7 +89,7 @@ params:
   navAction:
     name: Get in touch
     status: yes
-    url: contact
+    url: 'magracesmile@gmail.com'
   portfolio:
     enable: yes
     subtitle: Sonhamos em levar o Bazar Makuntima para as 18 províncias de Angola.
