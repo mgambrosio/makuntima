@@ -88,7 +88,7 @@ params:
   logo: images/team-maktima.png
   navAction:
     name: Get in touch
-    status: yes
+    status: 'yes'
     url: 'magracesmile@gmail.com'
   portfolio:
     enable: yes
