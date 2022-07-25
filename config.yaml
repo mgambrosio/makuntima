@@ -48,7 +48,7 @@ params:
     projectType:
       - title: Bazar
         value: gd
-      - title: Propina escolar
+      - title: Outros
         value: wd
     send_message: Send Message
   dateFormat: 26 FEB 1994
