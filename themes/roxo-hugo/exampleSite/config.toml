@@ -114,8 +114,8 @@ summarylength = 25
       [params.footer.social]
         title   = "Social Media"
         [[params.footer.social.link]]
-          name = "Medium"
-          url  = "#"
+          name = "Email"
+          url  = "magracesmile@gmail.com"
         [[params.footer.social.link]]
           name = "Behance"
           url  = "#"
