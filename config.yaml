@@ -27,7 +27,7 @@ params:
     enable: yes
     heading: Bazar Beneficente Makuntima
     primary_button: O nosso trabalho
-    primary_button_url: Projectos
+    primary_button_url: portfolio
     secondary_button: Conecte-se conosco
     secondary_button_url: contact
     tagline: Do nosso coração para o das comunidades
@@ -88,7 +88,7 @@ params:
   logo: images/team-maktima.png
   navAction:
     name: 'Get in touch'
-    status: 'yes'
+    status: yes
     url: 'magracesmile@gmail.com'
   portfolio:
     enable: yes
