@@ -87,7 +87,7 @@ params:
   googleAnalitycsID: Your ID
   logo: images/team-maktima.png
   navAction:
-    name: 'Get in touch'
+    name: Get in touch
     status: yes
     url: 'magracesmile@gmail.com'
   portfolio:
